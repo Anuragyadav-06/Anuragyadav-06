@@ -21,7 +21,7 @@ Languages   = ['Python', 'SQL', 'JavaScript']
 Libraries   = ['pandas', 'scikit-learn', 'PyTorch', 'TensorFlow', 'LangChain']
 Tools       = ['FastAPI', 'Docker', 'GitHub Actions', 'PostgreSQL']
 Cloud       = ['AWS', 'GCP', 'Hugging Face', 'Render']
-
+'''
 ## ⚡ Fun Facts
 - I love turning repetitive tasks into one-liner scripts
 - Learning something new every week (currently obsessed with agentic AI)
