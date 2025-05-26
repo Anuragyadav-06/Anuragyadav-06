@@ -22,17 +22,13 @@ Libraries   = ['pandas', 'scikit-learn', 'PyTorch', 'TensorFlow', 'LangChain']
 Tools       = ['FastAPI', 'Docker', 'GitHub Actions', 'PostgreSQL']
 Cloud       = ['AWS', 'GCP', 'Hugging Face', 'Render']
 
-⚡ Fun Facts
-I speak fluent Python (and decent sarcasm)
-
-I love breaking down complex systems into clean code
-
-Currently building an AI army to conquer repetitive tasks
+## ⚡ Fun Facts
+- I love turning repetitive tasks into one-liner scripts
+- Learning something new every week (currently obsessed with agentic AI)
+- Big believer in “Code that explains itself”
 
 
-📫 Let's Connect
-[LinkedIn]:(https://www.linkedin.com/in/anurag-yadav-93216b314/)
-
-Email: ay970232@gmail.com
-
-Portfolio coming soon...
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/anurag-yadav-93216b314/)
+- [Email](mailto ay970232@gmail.com)
+- Portfolio coming soon
